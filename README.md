@@ -1,5 +1,5 @@
 
-# Desafio na Trilha do Cientista de Dados
+# Desafio DataCamp Cientista de Dados
 
 ## Introdução
 Este projeto foi desenvolvido como parte de um desafio na Trilha do Cientista de Dados. O objetivo deste desafio é aplicar técnicas de ciência de dados para analisar e visualizar dados de escolas em Nova York.
